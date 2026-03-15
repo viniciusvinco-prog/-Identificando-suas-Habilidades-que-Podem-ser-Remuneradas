@@ -1,7 +1,7 @@
 # -Identificando-suas-Habilidades-que-Podem-ser-Remuneradas
 # Mapa de Habilidades — Dia a dia pessoal e profissional
 
-Este repositório contém meu **Mapa de Habilidades** em 3 etapas (Inventário → Mercado → Monetização), conforme o exercício proposto. [1](https://onedrive.live.com/?id=d678272e-3c68-4c3c-8da4-70c0565d4422&cid=1b2901920a0bfb2f&web=1)  
+Este repositório contém meu **Mapa de Habilidades** em 3 etapas (Inventário → Mercado → Monetização), conforme o exercício proposto. [1](https://github.com/viniciusvinco-prog/-Identificando-suas-Habilidades-que-Podem-ser-Remuneradas/blob/main/MAPAS%20DE%20HABILIDADES.pdf)  
 Reúne competências do meu dia a dia profissional e pessoal, incluindo experiências com gestão e negociação, supervisão/qualidade, tecnologia prática, facilitação digital (especialmente para público 60+) e fotografia de viagens.
 
 ---
@@ -12,12 +12,12 @@ Organizar minhas habilidades para:
 - Construção de portfólio no GitHub
 - Identificação de oportunidades de monetização/serviços
 
-> Entrega do exercício: preencher as 3 etapas, subir no GitHub e compartilhar o link. [1](https://onedrive.live.com/?id=d678272e-3c68-4c3c-8da4-70c0565d4422&cid=1b2901920a0bfb2f&web=1)  
+> Entrega do exercício: preencher as 3 etapas, subir no GitHub e compartilhar o link. [1](https://github.com/viniciusvinco-prog/-Identificando-suas-Habilidades-que-Podem-ser-Remuneradas/blob/main/MAPAS%20DE%20HABILIDADES.pdf)  
 
 ---
 
 # ✅ Etapa 1 — Inventário de Habilidades (o que eu sei fazer)
-Nesta etapa listo tudo o que sei fazer (hard skills, soft skills e estratégicas). [1](https://onedrive.live.com/?id=d678272e-3c68-4c3c-8da4-70c0565d4422&cid=1b2901920a0bfb2f&web=1)  
+Nesta etapa listo tudo o que sei fazer (hard skills, soft skills e estratégicas). [1](https://github.com/viniciusvinco-prog/-Identificando-suas-Habilidades-que-Podem-ser-Remuneradas/blob/main/MAPAS%20DE%20HABILIDADES.pdf)  
 
 ## 1) Hard Skills — Competências Técnicas (unificadas)
 
@@ -71,7 +71,7 @@ Nesta etapa listo tudo o que sei fazer (hard skills, soft skills e estratégicas
 ---
 
 # ✅ Etapa 2 — Mercado (alguém pagaria por isso?)
-Aqui cruzo minhas habilidades com necessidades do mercado, respondendo às perguntas do exercício. [1](https://onedrive.live.com/?id=d678272e-3c68-4c3c-8da4-70c0565d4422&cid=1b2901920a0bfb2f&web=1)  
+Aqui cruzo minhas habilidades com necessidades do mercado, respondendo às perguntas do exercício. [1](https://github.com/viniciusvinco-prog/-Identificando-suas-Habilidades-que-Podem-ser-Remuneradas/blob/main/MAPAS%20DE%20HABILIDADES.pdf)  
 
 ## A) Gestão, regularização e negociação
 - **Alguém pagaria por isso?** Sim, porque reduz atrasos, aumenta conversão de acordos e melhora previsibilidade.
@@ -100,9 +100,9 @@ Aqui cruzo minhas habilidades com necessidades do mercado, respondendo às pergu
 ---
 
 # ✅ Etapa 3 — Caminhos de Monetização (como começar)
-Checklist do exercício: plataformas, conteúdo, portfólio, parcerias e aulas/mentorias. [1](https://onedrive.live.com/?id=d678272e-3c68-4c3c-8da4-70c0565d4422&cid=1b2901920a0bfb2f&web=1)  
+Checklist do exercício: plataformas, conteúdo, portfólio, parcerias e aulas/mentorias. 
 
-## 1) Serviços em plataformas (Workana / 99Freelas / GetNinjas / Fiverr) [1](https://onedrive.live.com/?id=d678272e-3c68-4c3c-8da4-70c0565d4422&cid=1b2901920a0bfb2f&web=1)  
+## 1) Serviços em plataformas (Workana / 99Freelas / GetNinjas / Fiverr) [1](https://github.com/viniciusvinco-prog/-Identificando-suas-Habilidades-que-Podem-ser-Remuneradas/blob/main/MAPAS%20DE%20HABILIDADES.pdf)  
 **Pacotes sugeridos**
 1. Diagnóstico + plano de ação (priorização, indicadores e execução por etapas)
 2. Padronização de processo (fluxo, checklists, critérios e formalização)
@@ -112,7 +112,7 @@ Checklist do exercício: plataformas, conteúdo, portfólio, parcerias e aulas/m
 6. Facilitação digital 60+ (aula prática e acompanhamento guiado)
 7. Foto e registro (orientação + ensaio simples quando aplicável)
 
-## 2) Conteúdo gratuito para atrair clientes (Instagram / TikTok / LinkedIn / YouTube) [1](https://onedrive.live.com/?id=d678272e-3c68-4c3c-8da4-70c0565d4422&cid=1b2901920a0bfb2f&web=1)  
+## 2) Conteúdo gratuito para atrair clientes (Instagram / TikTok / LinkedIn / YouTube) 
 - “Como priorizar demandas por risco e impacto”
 - “Indicadores simples para produtividade e qualidade”
 - “Checklist: como deixar o PC pronto após reinstalação”
